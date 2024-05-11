@@ -27,7 +27,8 @@ http://localhost:8080/perfis
 
 
 
-![MRE](https://github.com/HenriqueFerC/Sprint1Spring/assets/129521477/845c7651-d422-4f5a-b45a-eef45dabd5a9)
+![image](https://github.com/HenriqueFerC/Sprint1Spring/assets/129521477/044f2a21-ade0-423c-9522-c354d47a763c)
+
 
 
 ![image](https://github.com/HenriqueFerC/Sprint1Spring/assets/129521477/1fa90c84-f26c-4195-8d1e-34aba57c5204)
