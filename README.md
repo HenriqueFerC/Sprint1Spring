@@ -1,5 +1,4 @@
-# Sprint1Spring
-Código do projeto na branch master.
+# Sprint2Spring
 
 PluSoluções
 
@@ -15,6 +14,8 @@ PluSoluções
 
 Projeto desenvolvido com Spring, para rodar a aplicação, basta entrar no projeto, mudar o application.properties para o seu banco de dados oracle e mudar para "create" para a primeira aplicação. Os métodos CRUD estão no
 /perfis, /chatbots, /pagamentos, /usuarios, e para consultar o filme, /chatbots/filme, você entra no método GET, coloca o url, com um JSON dos 3 atributos do chatbot, e retorna o filme desejado.
+
+No sprint 2 foi feita alterações nos relacionamentos que não estavam funcionando como deveriam, o MER foi alterado, adicionado o modelo de banco de dados, implementado validações e alterado os métodos da camada controller, além de correções de bugs.
 
 Link: https://youtu.be/agYTmd2_w1I
 Link: https://youtu.be/agYTmd2_w1I?s1=aTbzT8zR2XgBKrhJ
